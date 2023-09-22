@@ -1,0 +1,15 @@
+{
+    "name": "com.lite-ez-debugger",
+    "displayName": "Lite Ez Debugger",
+    "description": "Adding/removing components debugger for LeoECS Lite.",
+    "unity": "2021.3",
+    "version": "2023.9.17",
+    "keywords": [
+        "leoecs",
+        "lite",
+        "ecs",
+        "performance",
+        "debugger"
+    ],
+    "dependencies": {}
+}
